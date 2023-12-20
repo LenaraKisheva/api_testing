@@ -8,9 +8,14 @@
   <li>  <a href="https://docs.google.com/spreadsheets/d/1T9ZWnF5Z6KweGiVgdmYYBp9DaCYGK4T-d9TbdRRel1Y/edit#gid=0">
   Тест-кейсы</a> для тестирования запросов коллекции из блока store. </li> 
 </ul>
+
+
 ---
-Используя следующую  <li>  <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">
- WSDL</a> : SOAP. </li>  создайте рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны.
+
+
+
+Используя следующую  WSDL<a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">
+ WSDL</a>  создайте рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны.
 
  <li>  <a href="">
   Коллекция Postamn</a> : SOAP. </li> 
