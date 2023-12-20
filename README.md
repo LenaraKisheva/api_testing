@@ -16,5 +16,7 @@
 
 Используя следующую  <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL"> WSDL</a>   создала рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны.
 
- <li>  <a href="https://www.postman.com/descent-module-explorer-43201/workspace/my-workspace/collection/31106840-6a24d890-2e90-4384-873b-e9c6f661a52a?action=share&creator=31106840">
-  Коллекция Postamn</a> : SOAP. </li> 
+ <ul>
+  <li>  <a href="https://www.postman.com/descent-module-explorer-43201/workspace/my-workspace/collection/31106840-6a24d890-2e90-4384-873b-e9c6f661a52a?action=share&creator=31106840">
+  Коллекция Postamn</a> : SOAP. </li>
+  </ul>
