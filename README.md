@@ -4,9 +4,9 @@
 
  <ul>
   <li>  <a href="https://www.postman.com/descent-module-explorer-43201/workspace/my-workspace/collection/31106840-dac8e128-1161-4f4a-ada7-e7bb9b4e7ae9?action=share&creator=31106840">
-  Коллекция Postamn</a> для PetStore: REST. </li> 
+  Коллекция Postamn</a> для PetStore: REST </li> 
   <li>  <a href="https://docs.google.com/spreadsheets/d/1T9ZWnF5Z6KweGiVgdmYYBp9DaCYGK4T-d9TbdRRel1Y/edit#gid=0">
-  Тест-кейсы</a> для тестирования запросов коллекции из блока store. </li> 
+  Тест-кейсы</a> для тестирования запросов коллекции из блока store </li> 
 </ul>
 
 
@@ -18,5 +18,5 @@
 
  <ul>
   <li>  <a href="https://www.postman.com/descent-module-explorer-43201/workspace/my-workspace/collection/31106840-6a24d890-2e90-4384-873b-e9c6f661a52a?action=share&creator=31106840">
-  Коллекция Postamn</a> : SOAP. </li>
+  Коллекция Postamn</a> : SOAP </li>
   </ul>
