@@ -1,6 +1,6 @@
 # Тестирование API с помощью Postman
 
- Я протестировала все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создала соответствующие коллекции.
+ Я протестировала все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создала соответствующие коллекции:
 
  <ul>
   <li>  <a href="https://www.postman.com/descent-module-explorer-43201/workspace/my-workspace/collection/31106840-dac8e128-1161-4f4a-ada7-e7bb9b4e7ae9?action=share&creator=31106840">
